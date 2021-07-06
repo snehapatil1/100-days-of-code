@@ -12,6 +12,14 @@
 
 **Today's Progress**: Built a game called Computer Guess My Number in Python
 
-**Thoughts:** Today I have built a game called Computer Guess My Number. In this game user can give a hint to computer specifying minimum and maximum range of numbers and computer has to correctly guess the number that you have thought of. In this I have done usage of library called **random** in python.
+**Thoughts:** Today I have built a game called Computer Guess My Number. In this game user can give a hint to computer specifying minimum and maximum range of numbers and computer has to correctly guess the number that you have thought of. In this I have done usage of library called **random** in python and algorithm is based on Binary searching algorithm which has a time complexity of O(log n).
 
 **Link to work:** [Computer Guess My Number Game](https://github.com/snehapatil1/computer-guess-my-number)
+
+### Day 3: July 06, 2021 (Example 3)
+
+**Today's Progress**: Built a game called Rock Paper Scissors in Python
+
+**Thoughts:** Built a game called Rock Paper Scissors. In this game user can provide his/her choice amongst rock, paper and scissor and based on computer's choice, either user or computer will be a winner. In this I have done usage of library called **random** in python.
+
+**Link to work:** [Rock Paper Scissors Game](https://github.com/snehapatil1/rock-paper-scissors-game)

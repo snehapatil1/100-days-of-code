@@ -23,3 +23,11 @@
 **Thoughts:** Built a game called Rock Paper Scissors. In this game user can provide his/her choice amongst rock, paper and scissor and based on computer's choice, either user or computer will be a winner. In this I have done usage of library called **random** in python.
 
 **Link to work:** [Rock Paper Scissors Game](https://github.com/snehapatil1/rock-paper-scissors-game)
+
+### Day 4: July 07, 2021 (Example 4)
+
+**Today's Progress**: Usage of Decorators in Python
+
+**Thoughts:** Defined a custom decorator to wrap a function. Decorators are very powerful and useful design pattern in python which modifies the behaviour of function or class.
+
+**Link to work:** [Decorator](https://github.com/snehapatil1/python-snippets/blob/master/decorator.py)

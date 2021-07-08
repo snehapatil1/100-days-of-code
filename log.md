@@ -36,6 +36,6 @@
 
 **Today's Progress**: Usage of Property in Python
 
-**Thoughts:** Defined a class which demonstrates usage of property in python. In Python, property() is a built-in function that creates and returns a property object.
+**Thoughts:** Defined a class which demonstrates usage of property decorator in python. In Python, property() is a built-in function that creates and returns a property object.
 
 **Link to work:** [Property](https://github.com/snehapatil1/python-snippets/blob/master/property.py)

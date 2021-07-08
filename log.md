@@ -31,3 +31,11 @@
 **Thoughts:** Defined a custom decorator to wrap a function. Decorators are very powerful and useful design pattern in python which modifies the behaviour of function or class.
 
 **Link to work:** [Decorator](https://github.com/snehapatil1/python-snippets/blob/master/decorator.py)
+
+### Day 5: July 08, 2021 (Example 5)
+
+**Today's Progress**: Usage of Property in Python
+
+**Thoughts:** Defined a class which demonstrates usage of property in python. In Python, property() is a built-in function that creates and returns a property object.
+
+**Link to work:** [Property](https://github.com/snehapatil1/python-snippets/blob/master/property.py)

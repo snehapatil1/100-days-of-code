@@ -39,3 +39,11 @@
 **Thoughts:** Defined a class which demonstrates usage of property in python. In Python, property() is a built-in function that creates and returns a property object.
 
 **Link to work:** [Property](https://github.com/snehapatil1/python-snippets/blob/master/property.py)
+
+### Day 6: July 09, 2021 (Example 6)
+
+**Today's Progress**: Usage of Callable in Python
+
+**Thoughts:** Defined a class which demonstrates usage of callable in python. This built-in method in Python checks and returns True if the object passed appears to be callable, but may not be, otherwise False.
+
+**Link to work:** [Callable](https://github.com/snehapatil1/python-snippets/blob/master/callable.py)

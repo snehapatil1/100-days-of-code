@@ -47,3 +47,11 @@
 **Thoughts:** Defined a class which demonstrates usage of callable in python. This built-in method in Python checks and returns True if the object passed appears to be callable, but may not be, otherwise False.
 
 **Link to work:** [Callable](https://github.com/snehapatil1/python-snippets/blob/master/callable.py)
+
+### Day 7: July 12, 2021 (Example 7)
+
+**Today's Progress**: Inheritance in Python
+
+**Thoughts:** Defined a class which demonstrates Inheritance in python.
+
+**Link to work:** [Inheritance](https://github.com/snehapatil1/python-snippets/blob/master/inheritance.py)

@@ -55,3 +55,11 @@
 **Thoughts:** Defined a class which demonstrates Inheritance in python.
 
 **Link to work:** [Inheritance](https://github.com/snehapatil1/python-snippets/blob/master/inheritance.py)
+
+### Day 8: July 13, 2021 (Example 8)
+
+**Today's Progress**: Exception in Python
+
+**Thoughts:** Defined a class which demonstrates Exception in python.
+
+**Link to work:** [Exception](https://github.com/snehapatil1/python-snippets/blob/master/exception.py)

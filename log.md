@@ -63,3 +63,11 @@
 **Thoughts:** Defined a class which demonstrates Exception in python.
 
 **Link to work:** [Exception](https://github.com/snehapatil1/python-snippets/blob/master/exception.py)
+
+### Day 9: July 16, 2021 (Example 9)
+
+**Today's Progress**: Hangman game in Python
+
+**Thoughts:** Developed Hangman game in python.
+
+**Link to work:** [Hangman game](https://github.com/snehapatil1/hangman-game)

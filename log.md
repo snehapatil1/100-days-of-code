@@ -71,3 +71,11 @@
 **Thoughts:** Developed Hangman game in python.
 
 **Link to work:** [Hangman game](https://github.com/snehapatil1/hangman-game)
+
+### Day 10: July 19, 2021 (Example 10)
+
+**Today's Progress**: Bubble Sort in Python
+
+**Thoughts:** Implemented Bubble Sort algorithm in python.
+
+**Link to work:** [Bubble Sort](https://github.com/snehapatil1/python-snippets/blob/master/bubble_sort.py)

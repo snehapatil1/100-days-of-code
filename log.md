@@ -79,3 +79,11 @@
 **Thoughts:** Implemented Bubble Sort algorithm in python.
 
 **Link to work:** [Bubble Sort](https://github.com/snehapatil1/python-snippets/blob/master/bubble_sort.py)
+
+### Day 11: July 20, 2021 (Example 11)
+
+**Today's Progress**: Building an English Thesaurus in Python
+
+**Thoughts:** Building an English Thesaurus in Python
+
+**Link to work:** [English Thesaurus](https://github.com/snehapatil1/english-thesaurus)

@@ -87,3 +87,11 @@
 **Thoughts:** Building an English Thesaurus in Python
 
 **Link to work:** [English Thesaurus](https://github.com/snehapatil1/english-thesaurus)
+
+### Day 12: August 09, 2021 (Example 12)
+
+**Today's Progress**: Built a Tic Tac Toe game in Python.
+
+**Thoughts:** Built a Tic Tac Toe game in Python.
+
+**Link to work:** [Tic Tac Toe Game](https://github.com/snehapatil1/tic-tac-toe-game.git)

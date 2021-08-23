@@ -95,3 +95,11 @@
 **Thoughts:** Built a Tic Tac Toe game in Python.
 
 **Link to work:** [Tic Tac Toe Game](https://github.com/snehapatil1/tic-tac-toe-game.git)
+
+### Day 13: August 23, 2021 (Example 13)
+
+**Today's Progress**: Built Tip Calculator in Python.
+
+**Thoughts:** Built Tip Calculator in Python.
+
+**Link to work:** [Tip Calculator]()

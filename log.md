@@ -102,4 +102,4 @@
 
 **Thoughts:** Built Tip Calculator in Python.
 
-**Link to work:** [Tip Calculator]()
+**Link to work:** [Tip Calculator](https://github.com/snehapatil1/100-days-of-code/blob/master/Code%20Files/tip_calculator.py)

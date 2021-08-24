@@ -103,3 +103,11 @@
 **Thoughts:** Built Tip Calculator in Python.
 
 **Link to work:** [Tip Calculator](https://github.com/snehapatil1/100-days-of-code/blob/master/Code%20Files/tip_calculator.py)
+
+### Day 14: August 24, 2021 (Example 14)
+
+**Today's Progress**: Built Treasure Island in Python.
+
+**Thoughts:** Built Treasure Island in Python.
+
+**Link to work:** [Treasure Island](https://github.com/snehapatil1/treasure-island)

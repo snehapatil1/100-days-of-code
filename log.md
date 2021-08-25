@@ -111,3 +111,11 @@
 **Thoughts:** Built Treasure Island in Python.
 
 **Link to work:** [Treasure Island](https://github.com/snehapatil1/treasure-island)
+
+### Day 15: August 25, 2021 (Example 15)
+
+**Today's Progress**: Built Password Generator in Python.
+
+**Thoughts:** Built Password Generator in Python.
+
+**Link to work:** [Password Generator](https://github.com/snehapatil1/100-days-of-code/blob/master/Code%20Files/password_generator.py)

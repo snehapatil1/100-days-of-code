@@ -119,3 +119,11 @@
 **Thoughts:** Built Password Generator in Python.
 
 **Link to work:** [Password Generator](https://github.com/snehapatil1/100-days-of-code/blob/master/Code%20Files/password_generator.py)
+
+### Day 16: August 26, 2021 (Example 16)
+
+**Today's Progress**: Factorial program in Python.
+
+**Thoughts:** Factorial program in Python.
+
+**Link to work:** [Factorial program](https://github.com/snehapatil1/100-days-of-code/blob/master/Code%20Files/factorial.py)
